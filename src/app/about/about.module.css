@@ -1,0 +1,43 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .description {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 2rem;
+  }
+  
+  .experience h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .experience ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .experience li {
+    margin-bottom: 2rem;
+  }
+  
+  .experience h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .experience p {
+    color: #666;
+    margin-bottom: 0.5rem;
+  }
